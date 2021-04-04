@@ -1,4 +1,4 @@
-# Springboot啊啊啊啊啊啊啊啊啊啊
+# Springboot
 
 ## 1.AOP（Aespect Oriented Programming）面向切片编程
 
@@ -22,7 +22,7 @@ AOP则是利用横切技术将<u>影响多个类的公共行为封装到可重�
 
 
 
-# MyBatis啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+# MyBatis
 
 ## 1.几种分页方式
 
@@ -34,7 +34,7 @@ Mybatis不完全是ORM框架，可以编写原生的sql语句，灵活性高
 
 
 
-# Redis啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+# Redis
 
 ## 1.Redis？
 
